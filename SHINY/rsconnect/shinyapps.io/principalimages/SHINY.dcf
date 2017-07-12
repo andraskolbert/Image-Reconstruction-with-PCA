@@ -1,0 +1,8 @@
+name: SHINY
+account: principalimages
+server: shinyapps.io
+bundleId: 311057
+url: https://principalimages.shinyapps.io/SHINY
+when: 1447605273.55446
+asMultiple: FALSE
+asStatic: FALSE
